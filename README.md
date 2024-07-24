@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Celal Binici</h1>
 <h3 align="center">A passionate Game developer from Türkiye</h3>
 
@@ -21,12 +22,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celalbinici7&show_icons=true&locale=en&layout=compact" alt="celalbinici7" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celalbinici7&show_icons=true&locale=en" alt="celalbinici7" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CelalBinici7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CelalBinici7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CelalBinici7&theme=dark&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celalbinici7&" alt="celalbinici7" /></p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celalbinici7" alt="celalbinici7" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=CelalBinici7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celalbinici7&label=Profile%20views&color=0e75b6&style=flat" alt="celalbinici7" /> </p>
